@@ -1,0 +1,23 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "description": "``` const m = require('./m.js') ``` Just a collection of simple tools helpful in the debugging and develoment process.",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroimb/m.git"
+  },
+  "author": "mauroimb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroimb/m/issues"
+  },
+  "homepage": "https://github.com/mauroimb/m#readme"
+}
